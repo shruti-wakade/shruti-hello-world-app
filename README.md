@@ -1,1 +1,1 @@
-Test python app
+This is a python app
